@@ -12,7 +12,7 @@ const { height, width } = Dimensions.get('window');
 
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 
-export default class FloatingBtn extends Component {
+export default class SideCameraControls extends Component {
   constructor(props) {
     super(props);
 
